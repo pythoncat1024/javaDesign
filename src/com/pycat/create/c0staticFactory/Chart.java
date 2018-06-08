@@ -1,4 +1,4 @@
-package com.pycat.create.c0;
+package com.pycat.create.c0staticFactory;
 
 /**
  * Created by cat on 2018/6/8.

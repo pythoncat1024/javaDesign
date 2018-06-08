@@ -1,4 +1,4 @@
-package com.pycat.create.c1;
+package com.pycat.create.c1staticFactory;
 
 /**
  * <pre>

@@ -1,4 +1,4 @@
-package com.pycat.create.c1;
+package com.pycat.create.c1staticFactory;
 
 public abstract class Product {
     //所有产品类的公共业务方法  

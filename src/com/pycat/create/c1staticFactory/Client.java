@@ -1,4 +1,4 @@
-package com.pycat.create.c1;
+package com.pycat.create.c1staticFactory;
 
 class Client {
     public static void main(String args[]) {  
